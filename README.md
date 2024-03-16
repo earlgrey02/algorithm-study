@@ -1,7 +1,4 @@
-# Algorithm Study
-> **Problem Solving**
-
-## Tech
+## Language
 * **Python**
 
 ## Platform
@@ -21,18 +18,15 @@
 * **순열 & 조합**
 * **백트래킹(Backtracking)**
 
-### [트리(Tree)](https://github.com/earlgrey02/Algorithm-Study/tree/main/Baekjoon/Tree)
-* **세그먼트 트리(Segment Tree)**
-* **트라이(Trie)**
-
 ### [동적 계획법(Dynamic Programming)](https://github.com/earlgrey02/Algorithm-Study/tree/main/Baekjoon/Dynamic%20Programming)
 * **냅색(Knapsack)**
 
 ### [구현(Implementation)](https://github.com/earlgrey02/Algorithm-Study/tree/main/Baekjoon/Implementation)
 * **시뮬레이션(Simulation)**
 
+### [투 포인터(Two Pointer)](https://github.com/earlgrey02/Algorithm-Study/tree/main/Baekjoon/Two%20Pointer)
+* **슬라이딩 윈도우(Sliding Window)**
+
 ### [탐욕법(Greedy)](https://github.com/earlgrey02/Algorithm-Study/tree/main/Baekjoon/Greedy)
 
 ### [이분 탐색(Binary Search)](https://github.com/earlgrey02/Algorithm-Study/tree/main/Baekjoon/Binary%20Search)
-
-### [투 포인터(Two Pointer)](https://github.com/earlgrey02/Algorithm-Study/tree/main/Baekjoon/Two%20Pointer)
