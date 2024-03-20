@@ -10,7 +10,6 @@ def dfs(v):
         return dp[v[0]][v[1]]
     else:
         dp[v[0]][v[1]] = 0
-
         for i in range(4):
             next_v = (v[0] + dy[i], v[1] + dx[i])
 
